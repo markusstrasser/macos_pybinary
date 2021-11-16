@@ -1,4 +1,5 @@
-"fastapi[all]"
-"uvicorn[standard]"
+fastapi
 multiprocessing
 pyinstaller
+websockets
+otree
